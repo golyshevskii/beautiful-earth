@@ -1,3 +1,4 @@
+# WARNING SPOILERS! (One of all solutions)
 import re
 
 
