@@ -1,5 +1,5 @@
 # beautiful-earth (≧◡≦)
-ez task on how to sort the garbage :)
+>ez task on how to sort the garbage ^^
 
 
 # EN.
@@ -7,8 +7,7 @@ ez task on how to sort the garbage :)
 >PL, pl = plastic,<br/>
 >GL, gl = glass,<br/>
 >PA, pa = paper,<br/>
->MG, mg = mixed-garbage.<br/>
-
+>MG, mg = mixed-garbage.
 >It is necessary to arrange the string in such a way that<br/>
 >so that the output is a string containing information about the ordered garbage.<br/>
 
